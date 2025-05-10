@@ -18,10 +18,10 @@ First, navigate into the repository's directory.  Then,
 
 The code coverage report is automatically generated and can be found in `tests/cov_html/index.html`.
 
-Open your web browser to http://localhost:5000.  
+The Flask application is automatically started.  Open your web browser to http://localhost:5000.  
 This will take you to a page where you can select a file as input to the file generator.
 
-<img src="images/1 - start.jpg" width="30" height="20"/>
+<img src="images/1 - start.jpg" width="70" height="40"/>
 
 After clicking "Choose File" a file dialog will appear to enable you to select the input CSV.
 
@@ -29,7 +29,7 @@ After clicking "Choose File" a file dialog will appear to enable you to select t
 
 After selecting the input file, click "Process".
 
-<img src="images/3 - process.jpg" width="30" height="20"/>
+<img src="images/3 - process.jpg" width="70" height="40"/>
 
 After clicking "Process" the JSON document will be displayed on the next page.
 
